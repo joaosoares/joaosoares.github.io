@@ -4,13 +4,22 @@
   <title><![CDATA[Flying Troubles]]></title>
   <link href="http://joaosoares.github.io/atom.xml" rel="self"/>
   <link href="http://joaosoares.github.io/"/>
-  <updated>2013-05-31T02:28:58-03:00</updated>
+  <updated>2013-05-31T02:34:19-03:00</updated>
   <id>http://joaosoares.github.io/</id>
   <author>
-    <name><![CDATA[Joao Soares]]></name>
+    <name><![CDATA[João Soares]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The plan]]></title>
+    <link href="http://joaosoares.github.io/blog/2013/05/31/the-plan/"/>
+    <updated>2013-05-31T02:32:00-03:00</updated>
+    <id>http://joaosoares.github.io/blog/2013/05/31/the-plan</id>
+    <content type="html"><![CDATA[<p>Sometimes, in life, we have a plan. I had one.</p>
+]]></content>
+  </entry>
   
 </feed>
