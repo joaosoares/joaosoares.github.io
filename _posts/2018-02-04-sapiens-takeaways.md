@@ -1,8 +1,7 @@
 ---
-published: true
+layout: post
+title: Sapiens Takeaways
 ---
-## Sapiens Takeaways
-
 Finished on: Sunday, February 4, 2018
 
 1. The human evolutionary process is fascinating, and so is thinking about our Sapiens ancestors as people with similar mental capabilities as us but with a completely different lifestyle.
